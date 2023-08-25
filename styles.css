@@ -3,10 +3,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(30px);
+    margin: 0;
+    padding: 0;
     
-}
-
-.frosted{
-    width: 80%;
-    height: 80vw;
 }
