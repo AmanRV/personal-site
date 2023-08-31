@@ -1,6 +1,6 @@
 # personal-site
 
-amanrajesh.me
+[amanrajesh.me](https://amanrajesh.me/)
 
 WIP personal site
 
