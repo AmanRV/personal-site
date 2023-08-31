@@ -169,10 +169,7 @@ h2{
 }
 
 
-body {
-    transform: scale(1.1);
 
-}
 
 h4{
     margin: 30px;
@@ -375,7 +372,7 @@ h5{
     
 }
 
-@media screen and (max-height: 650px) {
+@media screen and (max-width: 600px) {
     .container2{
         margin: 20px;
         margin-top: 10px;
