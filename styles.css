@@ -596,3 +596,11 @@ h5{
     }
     
 }
+
+.a{
+    margin: 16px;
+    font-size: 20px;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 800;
+}
