@@ -1,3 +1,5 @@
+
+
 body {
     background-image: url('img/background.jpg');
     background-repeat: no-repeat;
@@ -25,7 +27,7 @@ body {
     justify-content: space-between;
     backdrop-filter: blur(20px);
     box-shadow: 0px 4px 10px 5px rgba(0, 0, 0, 0.221);
-    background-color: rgb(228 228 228 / 15%); 
+    background-color: rgba(228, 228, 228, 0.14); 
 }
 
 .container2{
@@ -604,3 +606,4 @@ h5{
     font-family: 'DM Sans', sans-serif;
     font-weight: 800;
 }
+
